@@ -61,3 +61,10 @@ body {
     align-items: center; /*centra todos los elementos*/
     width: 100%;
 }
+
+.pdep {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+}
